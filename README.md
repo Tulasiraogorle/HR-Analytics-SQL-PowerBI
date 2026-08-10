@@ -1,65 +1,74 @@
 # 📊 HR Analytics — Employee Attrition Analysis
 
-![HR Analytics](https://img.shields.io/badge/Project-HR%20Analytics-blue)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange)
-![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA-green)
+![HR Analytics](https://img.shields.io/badge/HR-Analytics-orange)
 
 ## 📌 Project Overview
 
-This project focuses on analyzing employee data to understand workforce
-patterns, employee attrition, and factors that may influence employee
-turnover.
+This project analyzes employee data to understand **workforce patterns, employee attrition, and factors associated with employee turnover**.
 
-The project includes data cleaning, exploratory data analysis, and
-business-focused visualization to convert raw HR data into meaningful
-insights.
+The project uses Python for data analysis and Power BI for interactive visualization. The goal is to transform employee data into meaningful business insights that can support **HR decision-making and employee retention strategies**.
 
-The goal is to help HR and business teams better understand employee
-trends and support data-driven decision-making.
+The analysis follows an end-to-end data analytics workflow:
+
+**Data Cleaning → Exploratory Data Analysis → Business Analysis → Visualization → Insights & Recommendations**
 
 ---
 
 ## 🎯 Business Objectives
 
-- Analyze overall employee attrition
-- Understand employee demographics
-- Analyze employee distribution across departments
-- Identify patterns in employee turnover
-- Analyze employee roles and job-related factors
-- Explore relationships between employee characteristics and attrition
-- Create meaningful visualizations for HR decision-making
+The main objectives of this project are to:
+
+- Analyze overall employee attrition.
+- Identify departments with higher employee turnover.
+- Analyze attrition across different job roles.
+- Understand attrition patterns by gender and business travel.
+- Analyze the relationship between overtime and employee attrition.
+- Examine employee age and income distributions.
+- Identify workforce patterns that may require HR attention.
+- Build an interactive Power BI dashboard for HR decision-making.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Category | Tools |
-|---|---|
-| Programming | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
-| Dashboard | Power BI |
-| Data Preparation | Power Query |
-| Database / Querying | SQL |
-| Development | Jupyter Notebook |
-| Data Format | CSV |
+### Programming & Data Analysis
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+
+### Data Preparation
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+
+### Business Intelligence
+- KPI Analysis
+- Interactive Dashboards
+- Business Insights
+- Data Storytelling
 
 ---
 
-## 🔄 Project Workflow
+## 📂 Project Structure
 
 ```text
-Raw HR Dataset
-       ↓
-Data Cleaning & Preparation
-       ↓
-Exploratory Data Analysis
-       ↓
-Data Transformation
-       ↓
-Business Analysis
-       ↓
-Power BI Visualization
-       ↓
-HR Insights & Recommendations
+HR-Analytics-SQL-PowerBI/
+│
+├── HR Analytics/
+│   └── Data/
+│
+├── HR dashboards/
+│   ├── Employee Analysis Dashboard
+│   └── Executive Dashboard
+│
+├── .gitattributes
+└── README.md
