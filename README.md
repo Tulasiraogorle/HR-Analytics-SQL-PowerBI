@@ -17,6 +17,18 @@ The analysis follows an end-to-end data analytics workflow:
 
 ---
 
+## 📊 Dashboard Preview
+
+### 📌 Executive Dashboard
+
+![HR Executive Dashboard](HR%20dashboards/hr-dashboard-executive.png.png)
+
+### 📌 Employee Analysis Dashboard
+
+![Employee Analysis Dashboard](HR%20dashboards/hr-dashboard-employee-analysis.png.png)
+
+---
+
 ## 🎯 Business Objectives
 
 The main objectives of this project are to:
