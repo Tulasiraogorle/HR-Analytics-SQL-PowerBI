@@ -68,21 +68,21 @@ The main objectives of this project are to:
 
 ---
 ### Data Analytics Workflow
-Raw HR Dataset
+- Raw HR Dataset
        ↓
-Data Cleaning & Preparation
+- Data Cleaning & Preparation
        ↓
-Exploratory Data Analysis
+- Exploratory Data Analysis
        ↓
-Data Transformation
+- Data Transformation
        ↓
-Business Analysis
+- Business Analysis
        ↓
-Power BI Visualization
+- Power BI Visualization
        ↓
-Key Insights
+- Key Insights
        ↓
-Business Recommendations
+- Business Recommendations
 
 ## 📂 Project Structure
 
