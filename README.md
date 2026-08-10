@@ -67,6 +67,22 @@ The main objectives of this project are to:
 - Data Storytelling
 
 ---
+### Data Analytics Workflow
+Raw HR Dataset
+       ↓
+Data Cleaning & Preparation
+       ↓
+Exploratory Data Analysis
+       ↓
+Data Transformation
+       ↓
+Business Analysis
+       ↓
+Power BI Visualization
+       ↓
+Key Insights
+       ↓
+Business Recommendations
 
 ## 📂 Project Structure
 
