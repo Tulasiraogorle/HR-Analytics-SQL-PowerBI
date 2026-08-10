@@ -16,18 +16,15 @@ The analysis follows an end-to-end data analytics workflow:
 **Data Cleaning → Exploratory Data Analysis → Business Analysis → Visualization → Insights & Recommendations**
 
 ---
-# 📊 HR Analytics – Employee Attrition Analysis
-
 ## 📊 Dashboard Preview
 
-### Employee Analysis Dashboard
+### 📌 Executive Dashboard
 
-![Employee Analysis Dashboard](HR%20dashboards/hr-dashboard-employee-analysis.png)
+![HR Executive Dashboard](HR%20dashboards/hr-dashboard-executive.png.png)
 
-### HR Executive Dashboard
+### 📌 Employee Analysis Dashboard
 
-![HR Executive Dashboard](HR%20dashboards/hr-dashboard-executive.png)
-
+![Employee Analysis Dashboard](HR%20dashboards/hr-dashboard-employee-analysis.png.png)
 ---
 
 ## 🎯 Business Objectives
